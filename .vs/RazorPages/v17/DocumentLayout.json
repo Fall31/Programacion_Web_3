@@ -46,8 +46,7 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:35:04.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:35:04.202Z"
             },
             {
               "$type": "Document",
@@ -59,21 +58,19 @@
               "RelativeToolTip": "Models\\Tarea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:34:13.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:34:13.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RazorPages",
+              "Title": "RazorPages.csproj",
               "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tareas\\P.W.3\\Razor\\RazorPages\\RazorPages.csproj",
               "RelativeDocumentMoniker": "RazorPages.csproj",
               "ToolTip": "C:\\Users\\MSI\\Documents\\Tareas\\P.W.3\\Razor\\RazorPages\\RazorPages.csproj",
               "RelativeToolTip": "RazorPages.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T20:33:04.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:33:04.782Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-21T20:28:54.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:28:54.748Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Pages\\Tareas.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T20:18:51.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:18:51.086Z"
             }
           ]
         }
