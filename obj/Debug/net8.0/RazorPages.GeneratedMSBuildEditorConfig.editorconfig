@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/Tareas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/TareasCanceladas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWFzQ2FuY2VsYWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/TareasFinalizadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWFzRmluYWxpemFkYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MSI/Documents/Tareas/P.W.3/Razor/RazorPages/Pages/_ViewImports.cshtml]
